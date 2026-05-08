@@ -10,6 +10,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/1200x/74/f5/0f/74f50f515887b6ef1d943b6a4f289eff.jpg"  />
+</div>
+
+###
+
 <p align="left">✨ Building full-stack web applications with the MERN stack  <br>📚 Currently learning TypeScript, Next.js, and exploring AI integration  <br>🎯 Goal: Grow as a developer through real-world projects and professional opportunities</p>
 
 ###
@@ -65,10 +71,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/74/f5/0f/74f50f515887b6ef1d943b6a4f289eff.jpg"  />
-</div>
-
-###
-
